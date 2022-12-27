@@ -1,0 +1,20 @@
+/*!
+	  * Bootstrap v5.2.2 (https://getbootstrap.com/)
+	  * Copyright 2011-2022 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+	  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+	  */
+
+/*!
+ * Gemstone Redmine Theme (https://github.com/pierreavn/gemstone)
+ * Copyright 2022-2023 The Gemstone Authors (https://github.com/pierreavn/gemstone/graphs/contributors)
+ * Licensed under GPL-3.0 (https://github.com/pierreavn/gemstone/blob/main/LICENSE)
+ */
+
+/*!
+* Tabler v1.0.0-beta16 (https://tabler.io)
+* @version 1.0.0-beta16
+* @link https://tabler.io
+* Copyright 2018-2022 The Tabler Authors
+* Copyright 2018-2022 codecalm.net Paweł Kuna
+* Licensed under MIT (https://github.com/tabler/tabler/blob/master/LICENSE)
+*/
